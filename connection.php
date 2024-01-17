@@ -1,8 +1,8 @@
 <?php
-    $server     ="localhost";
-    $user       ="root";
-    $password   ="";
-    $database   ="eling";
+    $server     ="ep-dawn-cell-76728736.eu-central-1.pg.koyeb.app";
+    $user       ="koyeb-adm";
+    $password   ="p2qL5NzMhWIC";
+    $database   ="koyebdb";
 
     $conn=new mysqli($server,$user,$password,$database);
 
